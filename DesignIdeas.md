@@ -1,8 +1,8 @@
-#Design Ideas 
+# Design Ideas 
 
-##Table of contents 
+## Table of contents 
 
-##Races
+## Races
 
-##Classes
+## Classes
 
