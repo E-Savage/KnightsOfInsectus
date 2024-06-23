@@ -1,1 +1,8 @@
-this is where i will be discussing my design ideas and what I would like to implement in this game.
+#Design Ideas 
+
+##Table of contents 
+
+##Races
+
+##Classes
+
