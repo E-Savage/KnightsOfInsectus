@@ -1,1 +1,8 @@
-this is the readme need to add stuff once I have a better plan
+# Knights of Insectus 
+## Table of Contents
+## Inspiration
+## Hopes and Desires for this Project
+## Playing the Game
+## Installation
+## Contributing
+## Contact
